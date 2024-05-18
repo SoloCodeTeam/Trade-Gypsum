@@ -17,6 +17,7 @@ export function Home() {
             <Third/>
             <hr />
             <Fourth/>
+            <hr />
             {/* <Projects/> */}
             <Footer/>
         </div>
